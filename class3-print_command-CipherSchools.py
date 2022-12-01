@@ -1,5 +1,6 @@
 # about print function...
 # - format method
-# - and and sep
+# - end and sep
 
-print?
+print("hello", end=":")
+print("a","c", sep="b")
